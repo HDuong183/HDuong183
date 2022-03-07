@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center"> <img src="https://github.com/SrishtiSinghD/SrishtiSinghD/blob/master/tenor%20(2).gif" width="90px">
   𝓓𝓸 𝓗𝓪𝓲 𝓓𝓾𝓸𝓷𝓰  
 </h1>
 
@@ -27,32 +27,32 @@ package HD
 
 ---
 
-## <p align="center">🔗 Connect with me</p>
+## <p align="center"> 👽 Connect with me 👽</p>
 <p align="center">
   <a href="https://www.facebook.com/profile.php?id=100027635901109" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" />
   </a>
   
   <a href="https://www.linkedin.com/in/hai-duong-57447b21b/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" />
   </a>
   
   <a href="https://dev.to/hduong1803" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="30" width="40"/>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" height="100" width="81"/>
   </a>
   
-  <a href="https://twitter.com/HiDng12837810" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  <a href="https://twitter.com/haiduongdev" target="blank">
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/twitter.png" />
   </a>
   
   <a href="https://www.instagram.com/_hduonggg_183_/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/bubbles/100/000000/instagram.png" />
   </a>
   
   ---
 	
 	
-## <p align="center">🛠️ Languages and Tools</p>
+## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="60px" /> Languages and Tools</p> 
 
 <table align="center">
   <tbody>
@@ -110,7 +110,7 @@ package HD
 	    <td width="20%" align="center">
 	<a href="https://wiki.archlinux.org/">
 		<span>𝗟𝗶𝗻𝘂𝘅</span><br><br><br>
-		<img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
+		<img height="64px" src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
 	</a>
       </td>
       <td width="20%" align="center">
@@ -139,7 +139,7 @@ package HD
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HDuong1803&langs_count=10&theme=tokyonight&layout=compact" alt="HDuong1803 :: Top Langs" /></p>
 
-## <p align="center">Profile stats :musical_keyboard:</p>
+## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> Profile stats :musical_keyboard:</p>
 
 <p align="center">
   <a href="https://abhigyantrips.dev/">
@@ -148,15 +148,15 @@ package HD
   </a>
 </p>
 
-## <p align="center">Repository pin 📌</p>
+## <p align="center"> <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> Repository pin 📌</p>
 
 <p align="center">	
 <a href="https://github.com/HDuong1803/ChatBot">
 	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=ChatBot&theme=tokyonight" alt="HDuong1803" />
 </a>
 	
-<a href="https://github.com/HDuong1803/LearnCode">
-	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=LearnCode&theme=tokyonight" alt="HDUong1803" />
+<a href="https://github.com/HDuong1803/DataStructs">
+	<img src="https://github-readme-stats.vercel.app/api/pin/?username=HDuong1803&repo=DataStructs&theme=tokyonight" alt="HDUong1803" />
 </a>
 </p>
 
